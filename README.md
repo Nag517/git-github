@@ -1,2 +1,3 @@
 # git-github
-this is my project 
+This is my project 
+Today is my day 
